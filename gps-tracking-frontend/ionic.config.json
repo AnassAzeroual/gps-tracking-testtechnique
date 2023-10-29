@@ -1,0 +1,7 @@
+{
+  "name": "gps-tracking-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
